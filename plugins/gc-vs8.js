@@ -1,34 +1,23 @@
 const handler = async (m, {conn}) => {
-  m.reply(global.vs8);
+  m.reply(global.vs500);
 };
-handler.command = /^(Vs8|vs8)$/i;
+handler.command = /^(Vs500|vs500)$/i;
 export default handler;
 
 global.vs8 = `
-*⚜️ VS OFICIAL - 8 VS 8⚜️*
-
-_HORA :_
-•10 Pm 🇵🇪
-•12 Am 🇦🇷🇨🇱
-
-*👑 ESCUADRA 1 👑*
-
-📱 
-📱 
-📱 
-📱 
-
-*👑 ESCUADRA 2 👑*
-
-📱
-📱
-📱
-📱
-
-*⚠️SUPLENTES⚠️*
-
-📱 
-📱
-📱
-📱
+╭── ⋅ ──⋆｡‧˚ʚ🍓ɞ˚‧｡⋆── ⋅ ──•
+│ 🌹𝖵𝖾𝗋𝗌𝗎𝗌 500 𝖥𝖾𝗆🌹
+│⏰𝖧𝗈𝗋𝖺: 18🇦🇷🇨🇱│17🇧🇴🇺🇾🇵🇾│16🇵🇪
+│📝𝖠𝖼𝗅𝖺𝗋𝖺𝖼𝗂𝗈𝗇: 𝖲𝗂𝗇 𝗉𝖼 , 𝗌𝗂𝗇 𝗅𝗀𝖻𝗍 .
+│🌹𝖳𝗂𝗍𝗎𝗅𝖺𝗋𝖾𝗌:
+│🍓: ̗̀➛
+│🍓: ̗̀➛
+│🍓: ̗̀➛
+│🍓: ̗̀➛
+│🌹𝖲𝗎𝗉𝗅𝖾𝗇𝗍𝖾𝗌:
+│❤️: ̗̀➛
+│❤️: ̗̀➛
+│🌹𝖣𝗈𝗇𝖺𝖽𝗈𝗋𝖺 𝖽𝖾 𝗌𝖺𝗅𝖺:
+│🍓: ̗̀➛
+╰── ⋅ ──⋆｡‧˚ʚ🍓ɞ˚‧｡⋆── ⋅ ──•
 `;
