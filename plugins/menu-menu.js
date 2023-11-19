@@ -34,8 +34,8 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 *« Vs / Reglas »*
  
  ◤━━━━━━━━━━━◥
-  💙 _${usedPrefix}Vs4_
-  💙 _${usedPrefix}Vs8_
+  💙 _${usedPrefix}Vs200_
+  💙 _${usedPrefix}Vs500_
   💙 _${usedPrefix}Infinito_
   💙 _${usedPrefix}Vivido_
   💙 _${usedPrefix}Mapa_
@@ -223,7 +223,6 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
   💙 _${usedPrefix}unwarn *<@tag>*_
   💙 _${usedPrefix}listwarn_
   💙 _${usedPrefix}fantasmas_
-  💙 _${usedPrefix}destraba_
   💙 _${usedPrefix}setpp *<img>*_
   💙 _admins *<txt>*_ (sin prefijo)
 ${readMore}
