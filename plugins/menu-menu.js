@@ -1,4 +1,4 @@
-import fetch from 'node-fetch';
+⁹import fetch from 'node-fetch';
 const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, isPrems}) => {
   if (usedPrefix == 'a' || usedPrefix == 'A') return;
   try {
@@ -31,15 +31,16 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  *💙 SERVICE : +5493751527973*
  •╚══◄░░░░░░►══╝•  
      
-*👻  B O T   V I O L E T 👻*
-  
- •╔══◄░░░░░░►══╗•
-  💙 _${usedPrefix}grupos_
-  💙 _${usedPrefix}infobot_
-  💙 _${usedPrefix}donar_
-  💙 _${usedPrefix}owner_
-  💙 _${usedPrefix}fixmsgespera_
- •╚══◄░░░░░░►══╝•  
+*« Vs / Reglas »*
+ 
+ ◤━━━━━━━━━━━◥
+  💙 _${usedPrefix}Vs4_
+  💙 _${usedPrefix}Vs8_
+  💙 _${usedPrefix}Infinito_
+  💙 _${usedPrefix}Vivido_
+  💙 _${usedPrefix}Mapa_
+ ◣━━━━━━━━━━━◢
+ 
 
 *🎄 M E N U  V I O L E T 🎄*
   
