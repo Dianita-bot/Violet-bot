@@ -1,10 +1,10 @@
 const handler = async (m, {conn}) => {
-  m.reply(global.vs500);
+  m.reply(global.Vs500);
 };
-handler.command = /^(Vs500|vs500)$/i;
+handler.command = /^(Vs500|vs5)$/i;
 export default handler;
 
-global.vs8 = `
+global.Vs500 = `
 ╭── ⋅ ──⋆｡‧˚ʚ🍓ɞ˚‧｡⋆── ⋅ ──•
 │ 🌹𝖵𝖾𝗋𝗌𝗎𝗌 500 𝖥𝖾𝗆🌹
 │⏰𝖧𝗈𝗋𝖺: 18🇦🇷🇨🇱│17🇧🇴🇺🇾🇵🇾│16🇵🇪
