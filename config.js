@@ -10,7 +10,7 @@ import moment from 'moment-timezone';
 global.botnumber = ""
 
 global.owner = [
-  ['51906528530', '☃️ Violet - Bot ☃️', true],
+  ['5493751509176', '☃️ Violet - Bot ☃️', true],
   ['50499698072', '💫 Samurai - Collaborator 1 💫', true],
   ['51940617554', '💫 Samurai - Collaborator 2 💫', true],
   ['51996089079', '💫 Samurai - Collaborator 3 💫', true],
