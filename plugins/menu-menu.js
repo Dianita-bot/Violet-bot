@@ -35,7 +35,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 
  ╭── ⋅ ── ✩ ── ⋅ ──╮
   ►💙 _${usedPrefix}Masc8_
-  ►💙_${usedPrefix}Masc12_
+  ►💙 _${usedPrefix}Masc12_
   ►💙 _${usedPrefix}Masc16_
   ►💙 _${usedPrefix}Masc20_
   ►💙 _${usedPrefix}Masc24_
