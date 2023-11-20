@@ -31,28 +31,25 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  *💙 SERVICE : +5493751527973*
  •╚══◄░░░░░░►══╝•  
      
-*« Vs / Reglas »*
- 
- ◤━━━━━━━━━━━◥
+*Vs*
+
+ ╭── ⋅ ── ✩ ── ⋅ ──╮
   💙 _${usedPrefix}Vs200_
   💙 _${usedPrefix}Vs500_
-  💙 _${usedPrefix}Infinito_
-  💙 _${usedPrefix}Vivido_
-  💙 _${usedPrefix}Mapa_
- ◣━━━━━━━━━━━◢
+ ╰── ⋅ ── ✩ ── ⋅ ──╯
  
 
-*🎄 M E N U  V I O L E T 🎄*
+*Menus Secundarios*
   
- •╔══◄░░░░░░►══╗•
+  ╭── ⋅ ── ✩ ── ⋅ ──╮
   💙 _${usedPrefix}menuaudios_
   💙 _${usedPrefix}menuanimes_
   💙 _${usedPrefix}labiblia_
- •╚══◄░░░░░░►══╝• 
+  ╰── ⋅ ── ✩ ── ⋅ ──╯
 
 *☃️ E N A B L E  V I O L E T ☃️*
 
- •╔══◄░░░░░░►══╗•
+  ╭── ⋅ ── ✩ ── ⋅ ──╮
   💙 _${usedPrefix}enable restrict_
   💙 _${usedPrefix}disable restrict_
   💙 _${usedPrefix}enable autoread_
@@ -67,7 +64,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
   💙 _${usedPrefix}disable audios_bot_
   💙 _${usedPrefix}enable antiprivado_
   💙 _${usedPrefix}disable antiprivado_
- •╚══◄░░░░░░►══╝• 
+   ╰── ⋅ ── ✩ ── ⋅ ──╯ 
 
 *🕹️ J U E G O S 🕹️*
 
