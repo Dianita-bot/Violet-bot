@@ -147,6 +147,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 *Descargas*
 
  ╭── ⋅ ── ✩ ── ⋅ ──╮
+  ►🩵 _${usedPrefix}playalacran *<txt>*_
   ►🩵 _${usedPrefix}instagram *<url>*_
   ►🩵 _${usedPrefix}mediafire *<url>*_
   ►🩵 _${usedPrefix}gitclone *<url>*_
